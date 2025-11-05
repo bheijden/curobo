@@ -33,6 +33,7 @@ dependencies = [
     "numpy",
     "numpy-quaternion",
     "pyyaml",
+    "setuptools>=61",
     "setuptools_scm>=6.2",
     "torch>=1.10",
     "trimesh",
